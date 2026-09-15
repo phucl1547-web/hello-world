@@ -52,4 +52,3 @@ def cau_c(y_b):
     print("\n===== CÂU C =====")
     print(h)
     print("x_c = ", x_c)
-cau_c(y_b)
